@@ -9,7 +9,7 @@ interstellar = media.Movie(
     "From director Christopher Nolan (Inception, The Dark Knight trilogy) "
     "comes the story of a team of pioneers undertaking the most important "
     "mission in human history.",
-    "https://i.ytimg.com/vi_webp/Df7IEKqimOY/movieposter.webp",
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=0vxOhd4qlnA",
     165
 )
